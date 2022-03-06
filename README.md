@@ -1,4 +1,4 @@
 # leetcode_practice
 
 
-nothing special, just some leetcode practice with python
+nothing special, just some leetcode daily practice with python
